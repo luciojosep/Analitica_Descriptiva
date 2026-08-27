@@ -1,0 +1,247 @@
+{"case_id":3049642,"t_state":"IN","t_county":"Benton County","t_fips":18007,"xlong":-87.397331,"ylat":40.612591}
+{"case_id":3055818,"t_state":"tx","t_county":"Cooke County","t_fips":48097,"xlong":-97.384125,"ylat":33.679977}
+{"case_id":3018441,"t_state":"OR","t_county":"Sherman County","t_fips":41055,"xlong":-120.531982,"ylat":45.604195}
+{"case_id":3000853,"t_state":"TX","t_county":"Carson County","t_fips":48065,"xlong":-101.30159,"ylat":35.406193}
+{"case_id":3045995,"t_state":"IA","t_county":"Webster County","t_fips":19187,"xlong":-94.138771,"ylat":42.359173}
+{"case_id":3037660,"t_state":"IA","t_county":"Cass County","t_fips":19029,"xlong":-94.704788,"ylat":41.236195}
+{"case_id":3038373,"t_state":"IA","t_county":"Cass County","t_fips":19029,"xlong":-94.778595,"ylat":41.170692}
+{"case_id":3041530,"t_state":"TX","t_county":"Willacy County","t_fips":48489,"xlong":-97.595192,"ylat":26.325796}
+{"case_id":3033996,"t_state":"TX","t_county":"San Patricio County","t_fips":48409,"xlong":-97.372993,"ylat":27.954596}
+{"case_id":3040101,"t_state":"CA","t_county":"Solano County","t_fips":6095,"xlong":-121.823586,"ylat":38.129093}
+{"case_id":3043596,"t_state":"tx","t_county":"Carson County","t_fips":48065,"xlong":-101.169678,"ylat":35.398731}
+{"case_id":3053748,"t_state":"TX","t_county":"Deaf Smith County","t_fips":48117,"xlong":-102.950478,"ylat":34.816914}
+{"case_id":3044247,"t_state":"ID","t_county":"Elmore County","t_fips":16039,"xlong":-115.416985,"ylat":43.037792}
+{"case_id":3052371,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.721909,"ylat":36.889458}
+{"case_id":3051846,"t_state":"WA","t_county":"Columbia County","t_fips":53013,"xlong":-118.057594,"ylat":46.391273}
+{"case_id":3040021,"t_state":"ca","t_county":"Solano County","t_fips":6095,"xlong":-121.816689,"ylat":38.135197}
+{"case_id":3027305,"t_state":"TX","t_county":"Taylor County","t_fips":48441,"xlong":-100.125992,"ylat":32.411995}
+{"case_id":3053772,"t_state":"NM","t_county":"Curry County","t_fips":35009,"xlong":-103.158821,"ylat":34.830063}
+{"case_id":3027325,"t_state":"tx","t_county":"Nolan County","t_fips":48353,"xlong":-100.184494,"ylat":32.415092}
+{"case_id":3035995,"t_state":"CA","t_county":"Shasta County","t_fips":6089,"xlong":-121.821388,"ylat":40.900097}
+{"case_id":3025861,"t_state":"IA","t_county":"Adair County","t_fips":19001,"xlong":-94.606689,"ylat":41.441292}
+{"case_id":3046559,"t_state":"IA","t_county":"Madison County","t_fips":19121,"xlong":-94.148926,"ylat":41.220592}
+{"case_id":3037373,"t_state":"ok","t_county":"Dewey County","t_fips":40043,"xlong":-98.836189,"ylat":36.102493}
+{"case_id":3028602,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.867683,"ylat":45.701694}
+{"case_id":3038654,"t_state":"KS","t_county":"Gray County","t_fips":20069,"xlong":-100.394188,"ylat":37.927494}
+{"case_id":3038716,"t_state":"KS","t_county":"Gray County","t_fips":20069,"xlong":-100.28849,"ylat":37.848194}
+{"case_id":3061216,"t_state":"ks","t_county":"Ford County","t_fips":20057,"xlong":-99.687363,"ylat":37.830708}
+{"case_id":3046128,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.617981,"ylat":43.050571}
+{"case_id":3053724,"t_state":"TX","t_county":"Deaf Smith County","t_fips":48117,"xlong":-103.026558,"ylat":34.772881}
+{"case_id":3032997,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.860489,"ylat":45.709293}
+{"case_id":3049667,"t_state":"IN","t_county":"Benton County","t_fips":18007,"xlong":-87.406975,"ylat":40.636101}
+{"case_id":3037805,"t_state":"IA","t_county":"Audubon County","t_fips":19009,"xlong":-94.731293,"ylat":41.522793}
+{"case_id":3055508,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.712517,"ylat":36.980568}
+{"case_id":3032073,"t_state":"WY","t_county":"Converse County","t_fips":56009,"xlong":-105.786491,"ylat":42.950794}
+{"case_id":3046031,"t_state":"IA","t_county":"Webster County","t_fips":19187,"xlong":-94.213844,"ylat":42.318363}
+{"case_id":3019701,"t_state":"TX","t_county":"Sterling County","t_fips":48431,"xlong":-101.193092,"ylat":32.034897}
+{"case_id":3020363,"t_state":"TX","t_county":"Oldham County","t_fips":48359,"xlong":-102.245392,"ylat":35.272896}
+{"case_id":3045008,"t_state":"HI","t_county":"Honolulu County","t_fips":15003,"xlong":-158.030792,"ylat":21.616697}
+{"case_id":3048096,"t_state":"TX","t_county":"Carson County","t_fips":48065,"xlong":-101.415939,"ylat":35.426434}
+{"case_id":3053737,"t_state":"TX","t_county":"Deaf Smith County","t_fips":48117,"xlong":-102.975899,"ylat":34.780361}
+{"case_id":3017762,"t_state":"ND","t_county":"Oliver County","t_fips":38065,"xlong":-101.21669,"ylat":47.142391}
+{"case_id":3037309,"t_state":"OK","t_county":"Dewey County","t_fips":40043,"xlong":-98.804192,"ylat":36.092094}
+{"case_id":3020352,"t_state":"TX","t_county":"Oldham County","t_fips":48359,"xlong":-102.35479,"ylat":35.293495}
+{"case_id":3046775,"t_state":"KS","t_county":"Rush County","t_fips":20165,"xlong":-99.563507,"ylat":38.404118}
+{"case_id":3024257,"t_state":"TX","t_county":"Nolan County","t_fips":48353,"xlong":-100.498695,"ylat":32.263195}
+{"case_id":3032675,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.817986,"ylat":45.727093}
+{"case_id":3028359,"t_state":"OK","t_county":"Woodward County","t_fips":40153,"xlong":-99.527893,"ylat":36.338993}
+{"case_id":3046114,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.547279,"ylat":43.066654}
+{"case_id":3054558,"t_state":"TX","t_county":"Comanche County","t_fips":48093,"xlong":-98.751213,"ylat":31.876074}
+{"case_id":3045585,"t_state":"TX","t_county":"Oldham County","t_fips":48359,"xlong":-102.431793,"ylat":35.312794}
+{"case_id":3032003,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.429184,"ylat":45.813995}
+{"case_id":3083450,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.46434,"ylat":36.923813}
+{"case_id":3026674,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.726585,"ylat":45.747295}
+{"case_id":3032705,"t_state":"wa","t_county":"Klickitat County","t_fips":53039,"xlong":-120.743187,"ylat":45.729095}
+{"case_id":3048051,"t_state":"tx","t_county":"Archer County","t_fips":48009,"xlong":-98.487274,"ylat":33.504223}
+{"case_id":3072761,"t_state":"PR","t_county":"Santa Isabel Municipio","t_fips":72133,"xlong":-66.370613,"ylat":17.976768}
+{"case_id":3052988,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.61586,"ylat":43.153484}
+{"case_id":3018563,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.304489,"ylat":45.806595}
+{"case_id":3024855,"t_state":"TX","t_county":"Shackelford County","t_fips":48417,"xlong":-99.43779,"ylat":32.765194}
+{"case_id":3053846,"t_state":"NM","t_county":"Curry County","t_fips":35009,"xlong":-103.159294,"ylat":34.760509}
+{"case_id":3053763,"t_state":"NM","t_county":"Curry County","t_fips":35009,"xlong":-103.08857,"ylat":34.793808}
+{"case_id":3049857,"t_state":"IN","t_county":"Benton County","t_fips":18007,"xlong":-87.39502,"ylat":40.643536}
+{"case_id":3037375,"t_state":"OK","t_county":"Dewey County","t_fips":40043,"xlong":-98.843994,"ylat":36.092293}
+{"case_id":3032071,"t_state":"WY","t_county":"Converse County","t_fips":56009,"xlong":-105.78289,"ylat":42.946491}
+{"case_id":3037772,"t_state":"ME","t_county":"Oxford County","t_fips":23017,"xlong":-70.6334,"ylat":44.683392}
+{"case_id":3037924,"t_state":"nd","t_county":"Morton County","t_fips":38059,"xlong":-101.660889,"ylat":46.956192}
+{"case_id":3072110,"t_state":"OK","t_county":"Woodward County","t_fips":40153,"xlong":-99.553108,"ylat":36.269558}
+{"case_id":3038673,"t_state":"KS","t_county":"Gray County","t_fips":20069,"xlong":-100.422493,"ylat":37.867294}
+{"case_id":3037913,"t_state":"ND","t_county":"Morton County","t_fips":38059,"xlong":-101.647591,"ylat":46.936192}
+{"case_id":3052423,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.740059,"ylat":36.954441}
+{"case_id":3069813,"t_state":"MN","t_county":"Mower County","t_fips":27099,"xlong":-92.565788,"ylat":43.639969}
+{"case_id":3028639,"t_state":"OR","t_county":"Sherman County","t_fips":41055,"xlong":-120.677284,"ylat":45.663296}
+{"case_id":3053146,"t_state":"ia","t_county":"Adams County","t_fips":19003,"xlong":-94.652222,"ylat":40.935997}
+{"case_id":3052404,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.719864,"ylat":36.942791}
+{"case_id":3061215,"t_state":"KS","t_county":"Ford County","t_fips":20057,"xlong":-99.657326,"ylat":37.865955}
+{"case_id":3055484,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.652206,"ylat":36.960323}
+{"case_id":3024828,"t_state":"tx","t_county":"Shackelford County","t_fips":48417,"xlong":-99.440895,"ylat":32.800594}
+{"case_id":3041067,"t_state":"nv","t_county":"White Pine County","t_fips":32033,"xlong":-114.468285,"ylat":39.107094}
+{"case_id":3053834,"t_state":"NM","t_county":"Curry County","t_fips":35009,"xlong":-103.135513,"ylat":34.744827}
+{"case_id":3052488,"t_state":"IN","t_county":"Benton County","t_fips":18007,"xlong":-87.372185,"ylat":40.639122}
+{"case_id":3025856,"t_state":"ia","t_county":"Adair County","t_fips":19001,"xlong":-94.630692,"ylat":41.439194}
+{"case_id":3020357,"t_state":"TX","t_county":"Oldham County","t_fips":48359,"xlong":-102.35479,"ylat":35.302795}
+{"case_id":3038463,"t_state":"IA","t_county":"Adair County","t_fips":19001,"xlong":-94.663391,"ylat":41.279594}
+{"case_id":3072772,"t_state":"PR","t_county":"Santa Isabel Municipio","t_fips":72133,"xlong":-66.392097,"ylat":17.977909}
+{"case_id":3055920,"t_state":"TX","t_county":"Deaf Smith County","t_fips":48117,"xlong":-103.038742,"ylat":34.780937}
+{"case_id":3071518,"t_state":"OK","t_county":"Woodward County","t_fips":40153,"xlong":-99.453957,"ylat":36.280735}
+{"case_id":3055586,"t_state":"TX","t_county":"Cooke County","t_fips":48097,"xlong":-97.411652,"ylat":33.702591}
+{"case_id":3037397,"t_state":"ND","t_county":"Oliver County","t_fips":38065,"xlong":-101.487587,"ylat":47.003693}
+{"case_id":3044372,"t_state":"ID","t_county":"Elmore County","t_fips":16039,"xlong":-115.48259,"ylat":43.033794}
+{"case_id":3024278,"t_state":"TX","t_county":"Nolan County","t_fips":48353,"xlong":-100.506592,"ylat":32.248795}
+{"case_id":3080587,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.466492,"ylat":36.910385}
+{"case_id":3035916,"t_state":"OK","t_county":"Woodward County","t_fips":40153,"xlong":-99.44529,"ylat":36.281296}
+{"case_id":3026687,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.694687,"ylat":45.750893}
+{"case_id":3051753,"t_state":"OK","t_county":"Kay County","t_fips":40071,"xlong":-97.191025,"ylat":36.9305}
+{"case_id":3041538,"t_state":"TX","t_county":"Willacy County","t_fips":48489,"xlong":-97.567696,"ylat":26.344696}
+{"case_id":3044748,"t_state":"CA","t_county":"Imperial County","t_fips":6025,"xlong":-116.060585,"ylat":32.745193}
+{"case_id":3029235,"t_state":"CO","t_county":"Logan County","t_fips":8075,"xlong":-102.812592,"ylat":40.989292}
+{"case_id":3029252,"t_state":"CO","t_county":"Logan County","t_fips":8075,"xlong":-102.907494,"ylat":40.971191}
+{"case_id":3019686,"t_state":"TX","t_county":"Sterling County","t_fips":48431,"xlong":-101.237892,"ylat":32.016693}
+{"case_id":3046180,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.632698,"ylat":43.026833}
+{"case_id":3046525,"t_state":"ia","t_county":"O'Brien County","t_fips":19141,"xlong":-95.532906,"ylat":43.067001}
+{"case_id":3049179,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.70047,"ylat":43.021774}
+{"case_id":3055557,"t_state":"tx","t_county":"Cooke County","t_fips":48097,"xlong":-97.406387,"ylat":33.728062}
+{"case_id":3024857,"t_state":"TX","t_county":"Shackelford County","t_fips":48417,"xlong":-99.449989,"ylat":32.778496}
+{"case_id":3040985,"t_state":"NV","t_county":"White Pine County","t_fips":32033,"xlong":-114.487587,"ylat":39.085194}
+{"case_id":3053831,"t_state":"NM","t_county":"Curry County","t_fips":35009,"xlong":-103.159416,"ylat":34.745129}
+{"case_id":3051801,"t_state":"OK","t_county":"Kay County","t_fips":40071,"xlong":-97.163994,"ylat":36.963745}
+{"case_id":3060873,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.581795,"ylat":43.162045}
+{"case_id":3037299,"t_state":"OK","t_county":"Dewey County","t_fips":40043,"xlong":-98.730492,"ylat":36.083893}
+{"case_id":3018539,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.34079,"ylat":45.811092}
+{"case_id":3018544,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.324287,"ylat":45.801792}
+{"case_id":3056591,"t_state":"KS","t_county":"Ford County","t_fips":20057,"xlong":-99.636459,"ylat":37.846199}
+{"case_id":3041697,"t_state":"IA","t_county":"Adair County","t_fips":19001,"xlong":-94.583893,"ylat":41.466492}
+{"case_id":3036944,"t_state":"WA","t_county":"Garfield County","t_fips":53023,"xlong":-117.78109,"ylat":46.580093}
+{"case_id":3045574,"t_state":"TX","t_county":"Oldham County","t_fips":48359,"xlong":-102.507195,"ylat":35.313694}
+{"case_id":3046046,"t_state":"IA","t_county":"Webster County","t_fips":19187,"xlong":-94.234589,"ylat":42.306614}
+{"case_id":3038653,"t_state":"KS","t_county":"Gray County","t_fips":20069,"xlong":-100.398788,"ylat":37.927494}
+{"case_id":3024255,"t_state":"TX","t_county":"Nolan County","t_fips":48353,"xlong":-100.509689,"ylat":32.263195}
+{"case_id":3044756,"t_state":"CA","t_county":"Imperial County","t_fips":6025,"xlong":-116.006592,"ylat":32.720795}
+{"case_id":3045998,"t_state":"IA","t_county":"Webster County","t_fips":19187,"xlong":-94.175102,"ylat":42.345284}
+{"case_id":3029260,"t_state":"CO","t_county":"Logan County","t_fips":8075,"xlong":-102.819893,"ylat":40.976093}
+{"case_id":3046074,"t_state":"IA","t_county":"Webster County","t_fips":19187,"xlong":-94.211029,"ylat":42.286713}
+{"case_id":3046467,"t_state":"IA","t_county":"Grundy County","t_fips":19075,"xlong":-92.979874,"ylat":42.360474}
+{"case_id":3029552,"t_state":"ok","t_county":"Woodward County","t_fips":40153,"xlong":-99.528191,"ylat":36.321194}
+{"case_id":3045255,"t_state":"HI","t_county":"Honolulu County","t_fips":15003,"xlong":-158.052383,"ylat":21.600298}
+{"case_id":3051731,"t_state":"OK","t_county":"Kay County","t_fips":40071,"xlong":-97.150833,"ylat":36.914623}
+{"case_id":3027312,"t_state":"TX","t_county":"Taylor County","t_fips":48441,"xlong":-100.141991,"ylat":32.417694}
+{"case_id":3019714,"t_state":"TX","t_county":"Sterling County","t_fips":48431,"xlong":-101.185394,"ylat":32.059696}
+{"case_id":3037365,"t_state":"OK","t_county":"Dewey County","t_fips":40043,"xlong":-98.777794,"ylat":36.114193}
+{"case_id":3027304,"t_state":"TX","t_county":"Taylor County","t_fips":48441,"xlong":-100.123489,"ylat":32.413692}
+{"case_id":3048905,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.6092,"ylat":43.110081}
+{"case_id":3056592,"t_state":"KS","t_county":"Ford County","t_fips":20057,"xlong":-99.631706,"ylat":37.846157}
+{"case_id":3048903,"t_state":"ia","t_county":"O'Brien County","t_fips":19141,"xlong":-95.620529,"ylat":43.112103}
+{"case_id":3052385,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.665543,"ylat":36.91544}
+{"case_id":3051750,"t_state":"OK","t_county":"Kay County","t_fips":40071,"xlong":-97.212029,"ylat":36.928394}
+{"case_id":3037324,"t_state":"OK","t_county":"Dewey County","t_fips":40043,"xlong":-98.704193,"ylat":36.037292}
+{"case_id":3024821,"t_state":"TX","t_county":"Shackelford County","t_fips":48417,"xlong":-99.407494,"ylat":32.778893}
+{"case_id":3037305,"t_state":"OK","t_county":"Dewey County","t_fips":40043,"xlong":-98.764793,"ylat":36.097794}
+{"case_id":3041515,"t_state":"TX","t_county":"Willacy County","t_fips":48489,"xlong":-97.596291,"ylat":26.337896}
+{"case_id":3052422,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.744453,"ylat":36.954552}
+{"case_id":3055503,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.739967,"ylat":36.981491}
+{"case_id":3049650,"t_state":"IN","t_county":"Benton County","t_fips":18007,"xlong":-87.364853,"ylat":40.626392}
+{"case_id":3047990,"t_state":"wa","t_county":"Columbia County","t_fips":53013,"xlong":-118.059776,"ylat":46.441425}
+{"case_id":3025871,"t_state":"IA","t_county":"Adair County","t_fips":19001,"xlong":-94.660995,"ylat":41.421093}
+{"case_id":3033303,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.901886,"ylat":45.695793}
+{"case_id":3056272,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.692535,"ylat":43.227718}
+{"case_id":3037878,"t_state":"IA","t_county":"Guthrie County","t_fips":19077,"xlong":-94.686394,"ylat":41.587994}
+{"case_id":3035468,"t_state":"MN","t_county":"Murray County","t_fips":27101,"xlong":-96.030594,"ylat":44.047791}
+{"case_id":3051161,"t_state":"wa","t_county":"Columbia County","t_fips":53013,"xlong":-118.054688,"ylat":46.461926}
+{"case_id":3046197,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.611649,"ylat":42.995472}
+{"case_id":3041524,"t_state":"TX","t_county":"Willacy County","t_fips":48489,"xlong":-97.564095,"ylat":26.357595}
+{"case_id":3024769,"t_state":"TX","t_county":"Nolan County","t_fips":48353,"xlong":-100.195595,"ylat":32.304394}
+{"case_id":3047944,"t_state":"CA","t_county":"Imperial County","t_fips":6025,"xlong":-115.978889,"ylat":32.766693}
+{"case_id":3032805,"t_state":"OK","t_county":"Roger Mills County","t_fips":40129,"xlong":-99.927689,"ylat":35.534294}
+{"case_id":3041517,"t_state":"TX","t_county":"Willacy County","t_fips":48489,"xlong":-97.58699,"ylat":26.342596}
+{"case_id":3069808,"t_state":"MN","t_county":"Mower County","t_fips":27099,"xlong":-92.585938,"ylat":43.637028}
+{"case_id":3044718,"t_state":"ID","t_county":"Elmore County","t_fips":16039,"xlong":-115.40049,"ylat":43.028095}
+{"case_id":3038433,"t_state":"IA","t_county":"Cass County","t_fips":19029,"xlong":-94.702591,"ylat":41.263893}
+{"case_id":3040051,"t_state":"CA","t_county":"Solano County","t_fips":6095,"xlong":-121.825386,"ylat":38.133595}
+{"case_id":3038420,"t_state":"IA","t_county":"Cass County","t_fips":19029,"xlong":-94.816895,"ylat":41.178192}
+{"case_id":3044765,"t_state":"CA","t_county":"Imperial County","t_fips":6025,"xlong":-115.971886,"ylat":32.761295}
+{"case_id":3040974,"t_state":"NV","t_county":"White Pine County","t_fips":32033,"xlong":-114.475388,"ylat":39.075092}
+{"case_id":3060919,"t_state":"KS","t_county":"Ford County","t_fips":20057,"xlong":-99.593277,"ylat":37.889553}
+{"case_id":3003108,"t_state":"TX","t_county":"Carson County","t_fips":48065,"xlong":-101.232292,"ylat":35.413193}
+{"case_id":3037876,"t_state":"IA","t_county":"Guthrie County","t_fips":19077,"xlong":-94.694794,"ylat":41.583694}
+{"case_id":3047054,"t_state":"CA","t_county":"Imperial County","t_fips":6025,"xlong":-116.038086,"ylat":32.761696}
+{"case_id":3036865,"t_state":"WA","t_county":"Garfield County","t_fips":53023,"xlong":-117.826187,"ylat":46.545593}
+{"case_id":3054587,"t_state":"TX","t_county":"Comanche County","t_fips":48093,"xlong":-98.696823,"ylat":31.836285}
+{"case_id":3025866,"t_state":"IA","t_county":"Adair County","t_fips":19001,"xlong":-94.654495,"ylat":41.432995}
+{"case_id":3051540,"t_state":"WA","t_county":"Columbia County","t_fips":53013,"xlong":-118.029427,"ylat":46.446976}
+{"case_id":3044110,"t_state":"OK","t_county":"Kay County","t_fips":40071,"xlong":-97.399994,"ylat":36.852592}
+{"case_id":3024987,"t_state":"TX","t_county":"Nolan County","t_fips":48353,"xlong":-100.622192,"ylat":32.389095}
+{"case_id":3039702,"t_state":"KS","t_county":"Ford County","t_fips":20057,"xlong":-99.746887,"ylat":37.805294}
+{"case_id":3036298,"t_state":"TX","t_county":"San Patricio County","t_fips":48409,"xlong":-97.358696,"ylat":27.992294}
+{"case_id":3037417,"t_state":"ND","t_county":"Morton County","t_fips":38059,"xlong":-101.605888,"ylat":46.921494}
+{"case_id":3046301,"t_state":"ND","t_county":"Oliver County","t_fips":38065,"xlong":-101.718758,"ylat":46.992352}
+{"case_id":3045984,"t_state":"IA","t_county":"Webster County","t_fips":19187,"xlong":-94.172462,"ylat":42.374664}
+{"case_id":3044806,"t_state":"hi","t_county":"Honolulu County","t_fips":15003,"xlong":-158.025482,"ylat":21.608196}
+{"case_id":3018482,"t_state":"OR","t_county":"Sherman County","t_fips":41055,"xlong":-120.486786,"ylat":45.584793}
+{"case_id":3041549,"t_state":"TX","t_county":"Willacy County","t_fips":48489,"xlong":-97.586594,"ylat":26.317495}
+{"case_id":3046285,"t_state":"ND","t_county":"Oliver County","t_fips":38065,"xlong":-101.560432,"ylat":47.006763}
+{"case_id":3038405,"t_state":"IA","t_county":"Cass County","t_fips":19029,"xlong":-94.743591,"ylat":41.237694}
+{"case_id":3052659,"t_state":"ia","t_county":"Adams County","t_fips":19003,"xlong":-94.724846,"ylat":40.906811}
+{"case_id":3032081,"t_state":"WY","t_county":"Converse County","t_fips":56009,"xlong":-105.794991,"ylat":42.944992}
+{"case_id":3049118,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.538925,"ylat":43.077763}
+{"case_id":3056595,"t_state":"KS","t_county":"Ford County","t_fips":20057,"xlong":-99.618752,"ylat":37.84573}
+{"case_id":3056401,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.580185,"ylat":43.230347}
+{"case_id":3036407,"t_state":"TX","t_county":"Oldham County","t_fips":48359,"xlong":-102.197289,"ylat":35.227592}
+{"case_id":3020448,"t_state":"TX","t_county":"Oldham County","t_fips":48359,"xlong":-102.265289,"ylat":35.259094}
+{"case_id":3037837,"t_state":"IA","t_county":"Audubon County","t_fips":19009,"xlong":-94.728394,"ylat":41.549595}
+{"case_id":3052395,"t_state":"OK","t_county":"Grant County","t_fips":40053,"xlong":-97.607895,"ylat":36.920147}
+{"case_id":3072231,"t_state":"TX","t_county":"Willacy County","t_fips":48489,"xlong":-97.642509,"ylat":26.325846}
+{"case_id":3051265,"t_state":"wa","t_county":"Columbia County","t_fips":53013,"xlong":-118.031296,"ylat":46.450035}
+{"case_id":3039832,"t_state":"CA","t_county":"Contra Costa County","t_fips":6013,"xlong":-121.720184,"ylat":37.795895}
+{"case_id":3041520,"t_state":"TX","t_county":"Willacy County","t_fips":48489,"xlong":-97.57679,"ylat":26.350996}
+{"case_id":3055949,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.602081,"ylat":43.153454}
+{"case_id":3025852,"t_state":"IA","t_county":"Adair County","t_fips":19001,"xlong":-94.68409,"ylat":41.443592}
+{"case_id":3032647,"t_state":"OR","t_county":"Sherman County","t_fips":41055,"xlong":-120.51899,"ylat":45.644592}
+{"case_id":3026721,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.603188,"ylat":45.772095}
+{"case_id":3047996,"t_state":"WA","t_county":"Columbia County","t_fips":53013,"xlong":-118.076073,"ylat":46.460545}
+{"case_id":3037426,"t_state":"ND","t_county":"Morton County","t_fips":38059,"xlong":-101.602188,"ylat":46.957893}
+{"case_id":3038344,"t_state":"IA","t_county":"Cass County","t_fips":19029,"xlong":-94.774193,"ylat":41.238594}
+{"case_id":3042813,"t_state":"IA","t_county":"Marshall County","t_fips":19127,"xlong":-92.803993,"ylat":42.144093}
+{"case_id":3037295,"t_state":"OK","t_county":"Dewey County","t_fips":40043,"xlong":-98.780792,"ylat":36.068794}
+{"case_id":3024861,"t_state":"TX","t_county":"Shackelford County","t_fips":48417,"xlong":-99.452293,"ylat":32.766792}
+{"case_id":3053750,"t_state":"TX","t_county":"Deaf Smith County","t_fips":48117,"xlong":-102.930656,"ylat":34.808514}
+{"case_id":3056641,"t_state":"ia","t_county":"O'Brien County","t_fips":19141,"xlong":-95.540718,"ylat":43.197807}
+{"case_id":3037280,"t_state":"OK","t_county":"Dewey County","t_fips":40043,"xlong":-98.68119,"ylat":36.034595}
+{"case_id":3046154,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.616188,"ylat":43.036823}
+{"case_id":3072742,"t_state":"PR","t_county":"Santa Isabel Municipio","t_fips":72133,"xlong":-66.390549,"ylat":17.983034}
+{"case_id":3051833,"t_state":"OK","t_county":"Kay County","t_fips":40071,"xlong":-97.16127,"ylat":36.997604}
+{"case_id":3025857,"t_state":"IA","t_county":"Adair County","t_fips":19001,"xlong":-94.665192,"ylat":41.452293}
+{"case_id":3019330,"t_state":"TX","t_county":"Nolan County","t_fips":48353,"xlong":-100.421494,"ylat":32.311195}
+{"case_id":3037854,"t_state":"IA","t_county":"Guthrie County","t_fips":19077,"xlong":-94.626289,"ylat":41.550594}
+{"case_id":3042169,"t_state":"IA","t_county":"Carroll County","t_fips":19027,"xlong":-94.89489,"ylat":41.932171}
+{"case_id":3037921,"t_state":"ND","t_county":"Morton County","t_fips":38059,"xlong":-101.628792,"ylat":46.953491}
+{"case_id":3046537,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.661613,"ylat":43.065842}
+{"case_id":3024768,"t_state":"TX","t_county":"Nolan County","t_fips":48353,"xlong":-100.192696,"ylat":32.304394}
+{"case_id":3025804,"t_state":"IA","t_county":"Adair County","t_fips":19001,"xlong":-94.696693,"ylat":41.499092}
+{"case_id":3032602,"t_state":"OR","t_county":"Sherman County","t_fips":41055,"xlong":-120.573883,"ylat":45.656895}
+{"case_id":3069806,"t_state":"MN","t_county":"Mower County","t_fips":27099,"xlong":-92.599815,"ylat":43.629227}
+{"case_id":3062545,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.811729,"ylat":45.717255}
+{"case_id":3038247,"t_state":"IA","t_county":"Cass County","t_fips":19029,"xlong":-94.726189,"ylat":41.221493}
+{"case_id":3032476,"t_state":"OR","t_county":"Umatilla County","t_fips":41059,"xlong":-118.588387,"ylat":45.891495}
+{"case_id":3046580,"t_state":"IA","t_county":"Madison County","t_fips":19121,"xlong":-94.17408,"ylat":41.203114}
+{"case_id":3019322,"t_state":"tx","t_county":"Floyd County","t_fips":48153,"xlong":-101.09259,"ylat":34.131393}
+{"case_id":3054550,"t_state":"TX","t_county":"Comanche County","t_fips":48093,"xlong":-98.745071,"ylat":31.892864}
+{"case_id":3040955,"t_state":"CA","t_county":"Solano County","t_fips":6095,"xlong":-121.792686,"ylat":38.167095}
+{"case_id":3032799,"t_state":"OK","t_county":"Roger Mills County","t_fips":40129,"xlong":-99.948692,"ylat":35.535995}
+{"case_id":3024770,"t_state":"tx","t_county":"Nolan County","t_fips":48353,"xlong":-100.198494,"ylat":32.304794}
+{"case_id":3039700,"t_state":"KS","t_county":"Ford County","t_fips":20057,"xlong":-99.755592,"ylat":37.805294}
+{"case_id":3019713,"t_state":"TX","t_county":"Sterling County","t_fips":48431,"xlong":-101.187691,"ylat":32.058697}
+{"case_id":3032027,"t_state":"WY","t_county":"Converse County","t_fips":56009,"xlong":-105.769989,"ylat":42.899494}
+{"case_id":3032695,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.770889,"ylat":45.729595}
+{"case_id":3026706,"t_state":"WA","t_county":"Klickitat County","t_fips":53039,"xlong":-120.662186,"ylat":45.770294}
+{"case_id":3049176,"t_state":"IA","t_county":"O'Brien County","t_fips":19141,"xlong":-95.6717,"ylat":43.050354}
+{"case_id":3045976,"t_state":"IA","t_county":"Webster County","t_fips":19187,"xlong":-94.208755,"ylat":42.366814}
+{"case_id":3033995,"t_state":"TX","t_county":"San Patricio County","t_fips":48409,"xlong":-97.370796,"ylat":27.957695}
+{"case_id":3051739,"t_state":"OK","t_county":"Kay County","t_fips":40071,"xlong":-97.234489,"ylat":36.923164}
+
+Esta es la información de la ubicación de cada turbina
+case_id:Variable identificatoria
+t_state:El estado de EE.UU. donde está la turbina
+t_county:El condado (una división dentro del estado) donde está la turbina.
+t_fips:Un código que junta estado y condado en cinco dígitos (por ejemplo 06029). Es el código geográfico oficial de EE.UU.
+xlong: La longitud de la turbina, en grados decimales. Los valores negativos son del hemisferio oeste.
+ylong: La latitud de la turbina, en grados decimales.
